@@ -1,0 +1,26 @@
+{
+"name": "dependenciesxiaolaszhangqing",
+"version": "1.0.0",
+"description": "Understanding the project's dependencies can help you better manage the project's environment and dependencies.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/mathildehausteen/Dependencies.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "mathildehausteen",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
